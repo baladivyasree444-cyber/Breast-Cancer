@@ -158,5 +158,3 @@ joblib
 matplotlib
 seaborn
 openpyxl
-pillow
-pyarrow
