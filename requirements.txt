@@ -1,4 +1,4 @@
-﻿altair==6.2.1
+'''﻿altair==6.2.1
 annotated-doc==0.0.4
 annotated-types==0.7.0
 anyio==4.13.0
@@ -147,9 +147,16 @@ websocket-client==1.9.0
 websockets==16.0
 widgetsnbextension==4.0.15
 wordcloud==1.9.6
-xlrd==2.0.2
+xlrd==2.0.2'''
 
 
-joblib
-pickle
+streamlit
+pandas
+numpy
 scikit-learn
+joblib
+matplotlib
+seaborn
+openpyxl
+pillow
+pyarrow
